@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 10;
+  padding: 10;
+}
+
+/*canvas {
+  display: block;
+}*/
+
+#hilsen {
+  color: 0;
+  margin: 10;
+  padding: 10;
+}
+
+#infoText {
+  color: 0;
+  font-size: 15px;
+}
+
+#logo {
+  width: 25%;
+  height: auto;
+}
