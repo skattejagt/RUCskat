@@ -1,1 +1,77 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"navn":"Kantinen (01)","beskrivelse":"Her spiser vi"},"geometry":{"type":"Point","coordinates":[12.13958144187927,55.65354863249216]}},{"type":"Feature","properties":{"navn":"IMT (04 og 06)","beskrivelse":"Her går vi"},"geometry":{"type":"Point","coordinates":[12.138293981552124,55.653046216809386]}},{"type":"Feature","properties":{"navn":"Studenterhuset (13)","beskrivelse":"Her drikker vi"},"geometry":{"type":"Point","coordinates":[12.137081623077393,55.65196872529292]}},{"type":"Feature","properties":{"navn":"RUB (26)","beskrivelse":"Her læser vi"},"geometry":{"type":"Point","coordinates":[12.136201858520508,55.65163578652443]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Kantinen (01)",
+        "beskrivelse": "Her spiser vi",
+        "sp1": "Hvornår har kantinen åbent?",
+        "sp1sv1": "Kl. 08.00 – 15.00 (Mandag – Fredag)",
+        "sp1sv2": "Kl. 08.00 – 16.00 (Mandag – Fredag)",
+        "sp1sv3": "Kl. 08.00 – 16.00 (Tirsdag – Fredag)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13958144187927,
+          55.65354863249216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "IMT (04 og 06)",
+        "beskrivelse": "Her går vi",
+        "sp1": "Hvilken linje huser i hus 04 og 06?",
+        "sp1sv1": "Humanistisk Bachelor",
+        "sp1sv2": "Humanistisk-international bachelor",
+        "sp1sv3": "Humanistisk- teknologisk bachelor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138293981552124,
+          55.653046216809386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Studenterhuset (13)",
+        "beskrivelse": "Her drikker vi",
+        "sp1": "Hvad er bygning 13 bedre kendt som?",
+        "sp1sv1": "Labben",
+        "sp1sv2": "Algoritmen",
+        "sp1sv3": "Studenterhuset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137081623077393,
+          55.65196872529292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "RUB (26)",
+        "beskrivelse": "Her læser vi",
+        "sp1": "Hvad finder du i bygning 26?",
+        "sp1sv1": "Biblioteket",
+        "sp1sv2": "FabLab",
+        "sp1sv3": "Biografen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136201858520508,
+          55.65163578652443
+        ]
+      }
+    }
+  ]
+}
