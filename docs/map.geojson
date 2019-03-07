@@ -9,7 +9,15 @@
         "sp1": "Hvornår har kantinen åbent?",
         "sp1sv1": "Kl. 08.00 – 15.00 (Mandag – Fredag)",
         "sp1sv2": "Kl. 08.00 – 16.00 (Mandag – Fredag)",
-        "sp1sv3": "Kl. 08.00 – 16.00 (Tirsdag – Fredag)"
+        "sp1sv3": "Kl. 08.00 – 16.00 (Tirsdag – Fredag)",
+        "sp2": "Hvad er StudentHub?",
+        "sp2sv1": "Et værested for studerende med hyggelig stemning, hvor der er mulighed for at købe kaffe eller en fyraftensbajer efter kl. 14. ",
+        "sp2sv2": "Et sted hvor alle spørgsmål vedrørende uddannelsen kan besvares, både administrative- og studievejledningsspørgsmål. ",
+        "sp2sv3": "RUCS egen zoologisk have",
+        "sp3": "Hvornår har StudentHub åbent?",
+        "sp3sv1": "Kl. 12 – 15 (Mandag - Fredag)",
+        "sp3sv2": "Kl. 12 – 16 (Mandag, Tirsdag, Torsdag og Fredag)",
+        "sp3sv3": "Kl. 12 – 15 (Mandag, Tirsdag, Torsdag og Fredag)"
       },
       "geometry": {
         "type": "Point",
@@ -25,9 +33,17 @@
         "navn": "IMT (04 og 06)",
         "beskrivelse": "Her går vi",
         "sp1": "Hvilken linje huser i hus 04 og 06?",
-        "sp1sv1": "Humanistisk Bachelor",
+        "sp1sv1": "Humanistisk-teknologisk bachelor",
         "sp1sv2": "Humanistisk-international bachelor",
-        "sp1sv3": "Humanistisk- teknologisk bachelor"
+        "sp1sv3": "Humanistisk Bachelor",
+        "sp2": "Hvilke værktøjer kan studerende anvende i FabLab?",
+        "sp2sv1": "Symaskiner og strikkepinde",
+        "sp2sv2": "Laserskærere og 3d-printere",
+        "sp2sv3": "Farveblyanter og tryllestave",
+        "sp3": "Hvad arbejder HumTek med?",
+        "sp3sv1": "Design, teknologi og robotter",
+        "sp3sv2": "Fysik, økonomi og miljø",
+        "sp3sv3": "Design, teknologi og mennesker"
       },
       "geometry": {
         "type": "Point",
@@ -43,9 +59,17 @@
         "navn": "Studenterhuset (13)",
         "beskrivelse": "Her drikker vi",
         "sp1": "Hvad er bygning 13 bedre kendt som?",
-        "sp1sv1": "Labben",
+        "sp1sv1": "Studenterhuset",
         "sp1sv2": "Algoritmen",
-        "sp1sv3": "Studenterhuset"
+        "sp1sv3": "Labben",
+        "sp2": "Hvornår har RucBar åbent?",
+        "sp2sv1": "Kl. 08 – 15 (Mandag – Fredag)",
+        "sp2sv2": "Kl. 11 – 17 (Mandag – Onsdag), Kl. 11 – 23 (Torsdag og Fredag)",
+        "sp2sv3": "Kl. 11 – 16 (Mandag – Fredag)",
+        "sp3": "Hvornår må der serveres alkohol i RucBar? ",
+        "sp3sv1": "Fra kl. 15",
+        "sp3sv2": "Der må ikke indtages alkohol på campus",
+        "sp3sv3": "Fra kl. 14"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +87,15 @@
         "sp1": "Hvad finder du i bygning 26?",
         "sp1sv1": "Biblioteket",
         "sp1sv2": "FabLab",
-        "sp1sv3": "Biografen"
+        "sp1sv3": "Biografen",
+        "sp2": "Hvad er RUC’s pensum pusher bedre kendt som?",
+        "sp2sv1": "Bog og Ide",
+        "sp2sv2": "Academic books",
+        "sp2sv3": "Københavns bibliotek",
+        "sp3": "Hvornår har RUB åbent?",
+        "sp3sv1": "Kl. 08 – 11 (Mandag – Fredag)",
+        "sp3sv2": "Kl. 08 – 16 (Mandag – Onsdag)",
+        "sp3sv3": "Kl. 08 – 16 (Mandag – Fredag)"
       },
       "geometry": {
         "type": "Point",
